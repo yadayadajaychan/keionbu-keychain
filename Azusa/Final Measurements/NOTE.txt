@@ -1,0 +1,1 @@
+The only difference between the final measurement version and the final v20 version is that the body is 2mm thick for the final measurement instead of 1.5mm for the v20.
